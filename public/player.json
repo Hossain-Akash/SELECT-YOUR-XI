@@ -7,7 +7,7 @@
     "rating": 9.5,
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
-    "price": "$10,000"
+    "price": "10,000"
   },
   {
     "player_image": "https://i.ibb.co.com/BVXxHJCG/musta.jpg",
@@ -17,7 +17,7 @@
     "rating": 8.7,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast-medium",
-    "price": "$7,500"
+    "price": "7,500"
   },
   {
     "player_image": "https://i.ibb.co.com/36FSgn5/gayle.jpg",
@@ -27,7 +27,7 @@
     "rating": 9.0,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$12,500"
+    "price": "12,500"
   },
   {
     "player_image": "https://i.ibb.co.com/pr4hW3sW/russel.jpg",
@@ -37,7 +37,7 @@
     "rating": 9.4,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "price": "$12,000"
+    "price": "12,000"
   },
   {
     "player_image": "https://i.ibb.co.com/nM3PCNjX/rashid.jpg",
@@ -47,7 +47,7 @@
     "rating": 9.6,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak googly",
-    "price": "$13,000"
+    "price": "13,000"
   },
   {
     "player_image": "https://i.ibb.co.com/s97Vq25B/babar.jpg",
@@ -57,7 +57,7 @@
     "rating": 9.2,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$11,000"
+    "price": "11,000"
   },
   {
     "player_image": "https://i.ibb.co.com/mC3dRz3r/buttler.jpg",
@@ -67,7 +67,7 @@
     "rating": 9.3,
     "batting_style": "Right-hand bat",
     "bowling_style": "—",
-    "price": "$12,000"
+    "price": "12,000"
   },
   {
     "player_image": "https://i.ibb.co.com/bjW8V1jF/warner.jpg",
@@ -77,7 +77,7 @@
     "rating": 9.1,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm legbreak",
-    "price": "$11,500"
+    "price": "11,500"
   },
   {
     "player_image": "https://i.ibb.co.com/KzhPbDyS/polard.jpg",
@@ -87,7 +87,7 @@
     "rating": 9.0,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium-fast",
-    "price": "$10,500"
+    "price": "10,500"
   },
   {
     "player_image": "https://i.ibb.co.com/Z1Vq1kDH/wol-iamson.jpg",
@@ -97,7 +97,7 @@
     "rating": 8.8,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$9,500"
+    "price": "9,500"
   },
   {
     "player_image": "https://i.ibb.co.com/jkHyLKrt/stokes.jpg",
@@ -107,7 +107,7 @@
     "rating": 9.2,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast-medium",
-    "price": "$12,500"
+    "price": "12,500"
   },
   {
     "player_image": "https://i.ibb.co.com/0VQdkWYY/kuli.jpg",
@@ -117,6 +117,6 @@
     "rating": 9.0,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$11,000"
+    "price": "11,000"
   }
 ]

@@ -1,20 +1,30 @@
 import React, { useState } from 'react';
 import userImg from '../../../assets/icon.png';
 import flagImg from '../../../assets/flag.png';
+import { toast } from 'react-toastify';
 
-const PlayerCard = ({ player, setAvailableBalance, availableBalance }) => {
+const PlayerCard = ({
+  player,
+  setAvailableBalance,
+  availableBalance,
+  purchasePlayers,
+  setPurchasePlayers,
+}) => {
   const [isSelected, setIsSelected] = useState(false);
 
   const handleSelect = (playerData) => {
-    const playerPrice = parseInt(
-      playerData.price.split(',').join('').split('$').join('')
-    );
+    const playerPrice = parseInt(playerData.price.split(',').join(''));
     if (availableBalance < playerPrice) {
-      alert('Not Enough Coin!!');
+      toast('Not Enough Coin!!');
+      return;
+    }
+    if (purchasePlayers.length === 6) {
+      toast('6 Player Already Selected');
       return;
     }
     setIsSelected(true);
     setAvailableBalance(availableBalance - playerPrice);
+    setPurchasePlayers([...purchasePlayers, playerData]);
   };
   return (
     <div className="card bg-base-100  shadow-lg p-4 ">
